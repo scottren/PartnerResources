@@ -44,4 +44,4 @@ Additionally, some content may be marked with one or more icons:
 * [MTG40: Microsoft Teams meetings for Skype for Business Server](https://myignite.techcommunity.microsoft.com/sessions/83195?source=sessions) (Self-Paced) (45 Minutes)
 * [THR3002: Bring your own phone numbers to Microsoft Teams](https://myignite.techcommunity.microsoft.com/sessions/79455?source=sessions) (Self-Paced) (20 Minutes)
 * [BRK3204: Troubleshooting Microsoft Teams](https://myignite.techcommunity.microsoft.com/sessions/83474?source=sessions) (Self-Paced) (45 Minutes)
-* [BRK3232: Plan and implement a successful upgrade from Skype for Business to Microsoft Teams](https://myignite.techcommunity.microsoft.com/sessions/83757?source=sessions) (Self-Paced) (75 Minutes)
+
